@@ -1,6 +1,7 @@
 # Procedural Jellyfish Showcase
 
 ![](./img/jellyfish.png)
+https://github.com/user-attachments/assets/1f7c753d-3a7b-4af0-9c1e-1a8177017938
 
 ![](./img/overview.png)
 
